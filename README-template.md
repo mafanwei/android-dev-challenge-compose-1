@@ -1,22 +1,19 @@
-# Put title of your app here
+# android-dev-challenge-compose-Week 1
 
-<!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
-<!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/mafanwei/android-dev-challenge-compose-1/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+This is a brand new application that makes full use of the jetpack compose component.
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+Jetpack compose is very easy to use.
+Just try it!
 
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.jpg" width="260">&emsp;<img src="/results/screenshot_2.jpg" width="260">
 
 ## License
 ```
